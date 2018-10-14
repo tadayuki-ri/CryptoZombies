@@ -1,5 +1,3 @@
 # CryptoZombies
 
-solidity practice
-
-[CryptoZombies](https://cryptozombies.io/)
+[CryptoZombies](https://cryptozombies.io/) for solidity practice
